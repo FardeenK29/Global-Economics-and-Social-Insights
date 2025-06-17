@@ -57,7 +57,7 @@ adoption of sustainable energy sources.
 economic comparison of spending on defense versus education.
 
 
-**Conclusion**
+# Conclusion
 
 The dashboard oﬀers a comprehensive analysis of global country comparisons, exploring economic,
 environmental, and social indicators.
